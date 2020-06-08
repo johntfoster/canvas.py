@@ -1,0 +1,11 @@
+name: canvas
+channels:
+  - defaults
+dependencies:
+  - pandoc=2.9
+  - pypandoc=1.5
+  - python=3.8.3
+  - requests=2.23
+  - setuptools=47b31af3_1006
+  - pip:
+    - mdutils==1.2.1
